@@ -39,4 +39,4 @@ Following are the pre-requisites tools that you'll need:
   - IERC20.json
   - USD.json
   to `interface/src/ABI/` folder.
-- Run the frontend using `npm  start`.
+- Run the frontend using `npm  start`. ..
